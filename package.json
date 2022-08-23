@@ -24,10 +24,10 @@
   "author": "Q2 Unbill Team",
   "license": "MIT",
   "peerDependencies": {
-    "@bugsnag/js": "*"
+    "@bugsnag/js": "^7.0.0"
   },
   "dependencies": {
-    "@bugsnag/core": "^6.4.1"
+    "@bugsnag/core": "^7.0.0"
   },
   "devDependencies": {
     "eslint": "^6.4.0",
